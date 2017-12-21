@@ -3,7 +3,4 @@ git is a free software
 git has a mutable index called stage
 git tracks changes
 creating a new branch is quick and simple
-branch 1
-haha
-branch 2
-branch 3
+=====
