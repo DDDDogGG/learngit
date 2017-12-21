@@ -6,3 +6,4 @@ creating a new branch is quick and simple
 branch 1
 haha
 branch 2
+branch 3
